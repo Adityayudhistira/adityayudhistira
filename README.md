@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ##### Skills
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,figma,bootstrap&theme=dark&perline=3)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -30,3 +32,14 @@ Here are some ideas to get you started:
 
 ##### Connect with Me
 ![https://instagram.com/aditya.ydstr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://tiktok.com/north14._](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+
+##### My Github Stats
+![Adityayudhistira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityayudhistira&show_icons=true&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityayudhistira/Adityayudhistira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityayudhistira/Adityayudhistira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adityayudhistira/Adityayudhistira/output/pacman-contribution-graph.svg">
+</picture>
+
+
